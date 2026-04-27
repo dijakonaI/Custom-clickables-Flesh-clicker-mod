@@ -1,4 +1,4 @@
-#Hello. 
+Hello. 
 
 To use this mod please put your image in the assets folder and rename It too "clickable"
 
